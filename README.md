@@ -42,8 +42,8 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 Michael Deng
 
 <a href="https://michaeldeng.me/" target="_blank"></a>
-<a href=">https://github.com/michael-deng" target="_blank"</a>
-<a href="https://twitter.com/themichaeldeng">Twitter</a>
+<a href="https://github.com/michael-deng" target="_blank">GitHub</a>
+<a href="https://twitter.com/themichaeldeng" taget="_blank">Twitter</a>
 
 
 
