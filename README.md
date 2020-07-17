@@ -10,6 +10,11 @@
   * <a href="https://triplebyte.com">TripleByte</a>:Traditional resumes do not represent your full potential as they rely primarily on experience. Triplebyte shows your potential based on proven technical skills.
   
   
+## Company Research 
+
+* <a href="https://www.crunchbase.com." target="_blank">Crunchbase</a>:Intelligently search and target the right opportunities with advanced search filters, analysis tools, and company alerts. Includes news, social media, and company history.
+
+  
 
 ## Job tips
 
