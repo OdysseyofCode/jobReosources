@@ -19,17 +19,13 @@
 ## Job tips
 
 * <p>For online reading, check out TechCrunch, Techmeme, Product Hunt, and Hacker News. If you’re a frequent Twitter user, follow tech news sources. On Medium and Quora, personalize your feeds to get insightful takes on the industry.
-
 If you’re into email newsletters, look into Axios Pro Rata, CB Insights, and Mattermark Daily.      <a href="#link1">1</a> </p> 
 
 * Aim to do a project you think you can complete in one to two months. The project should involve data structures, algorithms, and design decisions. And do something you’re interested in so you’ll actually take it all the way to completion.
-
 Here’s a compilation of project ideas on Reddit for inspiration. <a href="#link1">1</a> 
 
 * For smaller companies without a formal recruiting pipeline, reach out to an Engineering Manager instead. For even smaller companies, just email the CEO or CTO.
-
 The easiest way to get email addresses is asking your network for recruiter contacts.
-
 You need a LinkedIn account to find email addresses. Look up the companies you want to apply to on LinkedIn and filter their employees by recruiters. Next, install Hunter or Slik, which lets you get the email address from a LinkedIn profile.<a href="#link1">1</a> 
 
 
@@ -39,11 +35,7 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 
 * You will face Level 1 interviews (a non-tech company that needs any dev), where interviewers ask you nothing more than JavaScript trivia.
-
 You will face Level 9 interviews (Google/Facebook level), where interviewers ask difficult data structure and algorithm questions.
-
-
-
 I strategically set up my process so that I had lower-level interviews earlier, and higher-level interviews later on.  <a href="#link2">2</a>
 
 
