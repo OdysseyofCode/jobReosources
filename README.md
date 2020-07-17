@@ -9,7 +9,7 @@
 
 <p>For online reading, check out TechCrunch, Techmeme, Product Hunt, and Hacker News. If you’re a frequent Twitter user, follow tech news sources. On Medium and Quora, personalize your feeds to get insightful takes on the industry.
 
-If you’re into email newsletters, look into Axios Pro Rata, CB Insights, and Mattermark Daily.</p>  <a href="#link1">1</a>
+If you’re into email newsletters, look into Axios Pro Rata, CB Insights, and Mattermark Daily.      <a href="#link1">1</a> </p> 
 
 <p>Aim to do a project you think you can complete in one to two months. The project should involve data structures, algorithms, and design decisions. And do something you’re interested in so you’ll actually take it all the way to completion.
 
@@ -55,7 +55,7 @@ I strategically set up my process so that I had lower-level interviews earlier, 
 
 ### Michael Deng
 
-* <a href="https://michaeldeng.me/" target="_blank"></a>
+* <a href="https://michaeldeng.me/" target="_blank">Website</a>
 * <a href="https://github.com/michael-deng" target="_blank">GitHub</a>
 * <a href="https://twitter.com/themichaeldeng" taget="_blank">Twitter</a>
 * <a href="https://www.linkedin.com/in/michael-deng/" taget="_blank">LinkedIn</a>
