@@ -10,11 +10,29 @@
   * <a href="https://triplebyte.com">TripleByte</a>:Traditional resumes do not represent your full potential as they rely primarily on experience. Triplebyte shows your potential based on proven technical skills.
   
   
+  
+  
 ## Company Research 
 
 * <a href="https://www.crunchbase.com." target="_blank">Crunchbase</a>:Intelligently search and target the right opportunities with advanced search filters, analysis tools, and company alerts. Includes news, social media, and company history.
 
-  
+## Contact Recruiters
+
+### For smaller companies without a formal recruiting pipeline, reach out to an Engineering Manager instead. For even smaller companies, just email the CEO or CTO. The easiest way to get email addresses is asking your network for recruiter contacts.
+
+
+* <a href="https://www.slik.ai/#/" target="_blank">Slik</a>: Find anyone's email on LinkedIn
+* <a href="https://chrome.google.com/webstore/detail/linkedin-email-finder-ada/abpjeombpodcafecdidejijglognakhe?hl=en-US" target="_blank">Slik Chrome Extension</a>
+
+
+* <a href="https://www.hunter.io/#/" target="_blank">Hunter</a>: [F]ind email addresses in seconds and connect with the people that matter for your business. 
+* <a href="https://chrome.google.com/webstore/detail/hunter-find-email-address/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en" target="_blank">Hunter Chrome Extension</a>
+
+
+
+Use your school email address for Hunter ,if possible.
+
+ 
 
 ## Job tips
 
