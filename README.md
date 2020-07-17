@@ -74,7 +74,7 @@ I strategically set up my process so that I had lower-level interviews earlier, 
 
 ### Felix Feng
 
-<a href="https://medium.com/@felixfeng" taget="_blank">Medium</a>
+* <a href="https://medium.com/@felixfeng" taget="_blank">Medium</a>
 
 
 ## Job Boards
