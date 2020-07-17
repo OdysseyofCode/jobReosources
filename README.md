@@ -28,11 +28,14 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 
 
-1.<a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
+* <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
+</a>
+* <a id="link2" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
+" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.
+
 </a>
 
 
-  
   
 
 
@@ -59,3 +62,5 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 <a href="https://www.dice.com/" target="_blank">Dice</a>
 <a href="https://www.craigslist.org/about/scams" target="_blank">Craigs List</a>
+
+
