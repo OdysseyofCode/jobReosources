@@ -1,8 +1,8 @@
 ## Interviews
-<ul>
-  <li><a href="https://interviewing.io" target="_blank">Interviewing IO</a></li>
-  <li><a href="https://pramp.com" target="_blank">Pramp</a></li>
-</ul>
+
+  * <a href="https://interviewing.io" target="_blank">Interviewing IO</a>
+  * <a href="https://pramp.com" target="_blank">Pramp</a>
+
 
 
 ## Job tips
@@ -27,10 +27,20 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 </p>  </p><a href="#link1">1</a>
 
 
+<p>You will face Level 1 interviews (a non-tech company that needs any dev), where interviewers ask you nothing more than JavaScript trivia.
 
-1.<a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
+You will face Level 9 interviews (Google/Facebook level), where interviewers ask difficult data structure and algorithm questions.
+
+I strategically set up my process so that I had lower-level interviews earlier, and higher-level interviews later on.   </p><a href="#link2">2</a>
+ </p>
+
+
+1 <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
 </a>
 
+2 <a id="link1" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.
+
+</a>
 
   
   
