@@ -28,15 +28,20 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 
 
-* <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
-</a>
-* <a id="link2" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
-" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.
-
-</a>
+- <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school</a>
+- <a id="link2" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
+" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.</a>
 
 
-  
+ <p>You will face Level 1 interviews (a non-tech company that needs any dev), where interviewers ask you nothing more than JavaScript trivia.
+
+You will face Level 9 interviews (Google/Facebook level), where interviewers ask difficult data structure and algorithm questions.
+
+
+
+I strategically set up my process so that I had lower-level interviews earlier, and higher-level interviews later on.   </p><a href="#link2">2</a>
+ </p>
+
 
 
 
@@ -44,12 +49,11 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 ### Michael Deng
 
-<a href="https://michaeldeng.me/" target="_blank"></a>
-<a href="https://github.com/michael-deng" target="_blank">GitHub</a>
-<a href="https://twitter.com/themichaeldeng" taget="_blank">Twitter</a>
-<a href="https://www.linkedin.com/in/michael-deng/" taget="_blank">LinkedIn</a>
-<a href="https://medium.com/@michael_deng
-" taget="_blank">Medium</a>
+* <a href="https://michaeldeng.me/" target="_blank"></a>
+* <a href="https://github.com/michael-deng" target="_blank">GitHub</a>
+* <a href="https://twitter.com/themichaeldeng" taget="_blank">Twitter</a>
+* <a href="https://www.linkedin.com/in/michael-deng/" taget="_blank">LinkedIn</a>
+* <a href="https://medium.com/@michael_deng" taget="_blank">Medium</a>
 
 
 
@@ -60,7 +64,7 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 ## Job Boards
 
-<a href="https://www.dice.com/" target="_blank">Dice</a>
-<a href="https://www.craigslist.org/about/scams" target="_blank">Craigs List</a>
+* <a href="https://www.dice.com/" target="_blank">Dice</a>
+* <a href="https://www.craigslist.org/about/scams" target="_blank">Craigs List</a>
 
 
