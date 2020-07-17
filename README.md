@@ -35,10 +35,10 @@ I strategically set up my process so that I had lower-level interviews earlier, 
  </p>
 
 
-1 <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
+1. <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school
 </a>
 
-2 <a id="link1" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.
+2. <a id="link2" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.
 
 </a>
 
