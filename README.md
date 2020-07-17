@@ -44,3 +44,10 @@ Michael Deng
 <a href="https://michaeldeng.me/" target="_blank"></a>
 <a href=">https://github.com/michael-deng" target="_blank"</a>
 <a href="https://twitter.com/themichaeldeng">Twitter</a>
+
+
+
+## Job Boards
+
+<a href="https://www.dice.com/" target="_blank">Dice</a>
+<a href="https://www.craigslist.org/about/scams" target="_blank">Craigs List</a>
