@@ -18,7 +18,7 @@
 
 ## Job tips
 
-<p>For online reading, check out TechCrunch, Techmeme, Product Hunt, and Hacker News. If you’re a frequent Twitter user, follow tech news sources. On Medium and Quora, personalize your feeds to get insightful takes on the industry.
+* <p>For online reading, check out TechCrunch, Techmeme, Product Hunt, and Hacker News. If you’re a frequent Twitter user, follow tech news sources. On Medium and Quora, personalize your feeds to get insightful takes on the industry.
 
 If you’re into email newsletters, look into Axios Pro Rata, CB Insights, and Mattermark Daily.      <a href="#link1">1</a> </p> 
 
