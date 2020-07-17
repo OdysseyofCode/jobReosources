@@ -1,9 +1,15 @@
 ## Interviews
-<ul>
-  <li><a href="https://interviewing.io" target="_blank">Interviewing IO</a></li>
-  <li><a href="https://pramp.com" target="_blank">Pramp</a></li>
-</ul>
-
+  * <a href="https://interviewing.io" target="_blank">Interviewing IO</a>
+  * <a href="https://pramp.com" target="_blank">Pramp</a>
+  * <a href="https://www.interviewcake.com/" target="_blank">InterviewCake</a>:  Data structures and algorithms, step-by-step 
+  * <a href="https://www.hiredintech.com/classrooms/system-design/lesson/60" target="_blank">HiredInTech’s System Design Section</a>: A great guide for system design interview questions.  
+  * <a href="https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/" target="_blank">Reddit’s How to Prepare for Tech Interviews</a>
+  * <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front End Interview Questions</a> : An exhaustive list of front-end questions.
+  * <a href="https://leetcode.com/" target="_blank">Leetcode</a>:You can filter by company, so for example, you could get all the questions that Uber or Google typically ask.
+  * <a target="_blank" href=https://www.educative.io/courses/coderust-hacking-the-coding-interview>Codebust</a>: $49 will get you diagrams and solutions in almosy any language
+  * <a href="https://triplebyte.com">TripleByte</a>:Traditional resumes do not represent your full potential as they rely primarily on experience. Triplebyte shows your potential based on proven technical skills.
+  
+  
 
 ## Job tips
 
