@@ -22,9 +22,7 @@ The easiest way to get email addresses is asking your network for recruiter cont
 You need a LinkedIn account to find email addresses. Look up the companies you want to apply to on LinkedIn and filter their employees by recruiters. Next, install Hunter or Slik, which lets you get the email address from a LinkedIn profile.<a href="#link1">1</a> </p>
 
 
-<p>For career fairs, check which companies are attending beforehand. Jot down the ones you’re most interested in because you might not have time to talk to all of them. Print out 10 to 20 copies of your resume to pass to recruiters. Be ready to answer questions about your experiences and projects.
-
- <a href="#link1">1</a>  </p>
+<p>For career fairs, check which companies are attending beforehand. Jot down the ones you’re most interested in because you might not have time to talk to all of them. Print out 10 to 20 copies of your resume to pass to recruiters. Be ready to answer questions about your experiences and projects.    <a href="#link1">1</a>  </p>
 
 
 
