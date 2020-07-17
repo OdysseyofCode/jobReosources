@@ -24,13 +24,9 @@ You need a LinkedIn account to find email addresses. Look up the companies you w
 
 <p>For career fairs, check which companies are attending beforehand. Jot down the ones you’re most interested in because you might not have time to talk to all of them. Print out 10 to 20 copies of your resume to pass to recruiters. Be ready to answer questions about your experiences and projects.
 
-</p>  </p><a href="#link1">1</a>
+  </p><a href="#link1">1</a>  </p>
 
 
-
-- <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school</a>
-- <a id="link2" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
-" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.</a>
 
 
  <p>You will face Level 1 interviews (a non-tech company that needs any dev), where interviewers ask you nothing more than JavaScript trivia.
@@ -41,6 +37,16 @@ You will face Level 9 interviews (Google/Facebook level), where interviewers ask
 
 I strategically set up my process so that I had lower-level interviews earlier, and higher-level interviews later on.   </p><a href="#link2">2</a>
  </p>
+
+
+
+
+
+
+- <a id="link1" href="https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/?fbclid=IwAR0RNes8YHYkhEySvoCnfYFl5nuQ4G0ZJ3POUP8IL9mGA9eiwtNz2hTpjDc" target="_blank">How to land a top-notch tech internship — and a tech job — while you’re still in school</a>
+- <a id="link2" href="https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
+" target="_blank">I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.</a>
+
 
 
 
